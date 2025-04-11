@@ -14,4 +14,4 @@ Java | Node.js | MongoDB | HTML/CSS | Git | SQL
 - Preparing for off-campus placements
 
   ### 📬 Connect with me:
-- Email: 22211a05q4@gmail.com
+- Email: roddasangeetha03@gmail.com
