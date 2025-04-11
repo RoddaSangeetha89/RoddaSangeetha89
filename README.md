@@ -1,16 +1,17 @@
-## Hi there 👋
+## 👋 Hey there, I'm Sangeetha!
+🎓 3rd-year CSE student at BVRIT  
+💻 Passionate about Backend Dev, DSA & Real-world projects  
+🚀 Currently building a Disaster-Ready Queue System using Node.js & MongoDB  
+🎯 Goal: Crack an Amazon-level SDE Role | 200+ Leetcode Qs by August
 
-<!--
-**RoddaSangeetha89/RoddaSangeetha89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 💻 Tech Stack:
+Java | Node.js | MongoDB | HTML/CSS | Git | SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Current Focus:
+- Daily DSA + Java Prep
+- Building my major project with full-stack tech
+- Preparing for off-campus placements
+
+  ### 📬 Connect with me:
+- Email: 22211a05q4@gmail.com
